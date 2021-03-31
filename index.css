@@ -31,7 +31,8 @@ body {
 	margin: 0;
 	padding: 0;
 	color: #fff;
-	background: #21272f;
+	/*background: #21272f;*/
+	background: #2E3338;
 	font-family: 'Helvetica Neue', Helvetica, sans-serif;
 	font-size: 100%;
 	font-weight: 400;
@@ -134,7 +135,7 @@ p {
 
 .app-store-btn::before {
 	padding-right: 8px;
-	content: '';
+	/*content: '';*/
 	font-size: 16px;
 }
 
